@@ -23,7 +23,7 @@ body{
   
     width: 100%;
     height: 100vh;
-    background-image: url(/lens-490806.jpg);
+    background-image: url(lens-490806.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -387,7 +387,7 @@ nav .uil{
 
 @media only screen and (max-width:600px) {
     #header{
-        background-image: url(/lens-phone.jpg);
+        background-image: url(lens-phone.jpg);
     }
     
     .header-text{
